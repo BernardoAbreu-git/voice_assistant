@@ -1,0 +1,22 @@
+{
+  "sites": {
+    "youtube": "https://www.youtube.com",
+    "github": "https://github.com"
+  },
+  "folders": {
+    "documents": "%USERPROFILE%\\Documents",
+    "downloads": "%USERPROFILE%\\Downloads"
+  },
+  "programs": {
+    "sklauncher": [
+      "%APPDATA%\\sklauncher\\jre\\bin\\javaw.exe",
+      "-Xmx512M",
+      "-jar",
+      "%APPDATA%\\sklauncher\\SKlauncher.jar"
+    ]
+  },
+  "aliases": {
+    "vs code": "visual studio code",
+    "cloud": "claude"
+  }
+}
